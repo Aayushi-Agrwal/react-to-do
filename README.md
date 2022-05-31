@@ -1,2 +1,2 @@
 # react-to-do
-Created with CodeSandbox
+es6 spread operator practice
